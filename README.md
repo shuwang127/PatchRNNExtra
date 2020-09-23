@@ -1,5 +1,7 @@
 # PatchRNNExtra
 
+RNN-based Security Patch Identification with Oversampling Samples.
+
     '''
         PatchRNNExtra: RNN-based Security Patch Identification with Oversampling Samples.
         Developer: Shu Wang
